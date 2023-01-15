@@ -3,7 +3,7 @@ Danelle Antoinette G. Lim
 
 
 # Purple Hyacinth
-### *A specific picture of a flower may come to one's mind but in this website I'm not going to talk about the flowers*
+### *A specific picture of a flower may come to one's mind but in this website I'm not going to talk about flowers*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFncXg0zwuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
