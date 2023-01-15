@@ -7,7 +7,11 @@ Danelle Antoinette G. Lim
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFncXg0zwuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Purple Hyacinth is a mystery thriller webtoon that revolves around the life of Lauren Sinclair. A police officer with an ability to detect lies in a world full of injustice. With this injustice, a criminal organization was formed that caused an accident wherein Lauren lost her loved one. She soughts for answers even after 10 years of the accident. Though she never anticipated that she'd team up with the criminal organization's greatest assassin to find her answers.
+Purple Hyacinth is a mystery thriller webtoon that revolves around the life of Lauren Sinclair. A police officer with an ability to detect lies in a world full of injustice. With this injustice, a criminal organization was formed that caused an tragedy wherein Lauren lost her loved one. She soughts for answers even after 10 years of the event. Though she never anticipated that she'd team up with the criminal organization's greatest assassin to find her answers.
+
+(![image](https://user-images.githubusercontent.com/122424121/212537675-e1ec2daf-895b-400b-82d8-66157d43c86f.png)
+
+
 
 | Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
 |------|--------| --------| ----------- |----------|--------|
