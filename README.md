@@ -11,6 +11,10 @@ Purple Hyacinth is a mystery thriller webtoon that revolves around the life of L
 
 ![image](https://user-images.githubusercontent.com/122424121/212538027-f1707f50-b95e-421b-a2cb-48483c6f9c59.png)
 
+![image](https://user-images.githubusercontent.com/122424121/212538116-455d7f2d-9778-42cd-b4a8-3e8ec78b3a71.png)
+![image](https://user-images.githubusercontent.com/122424121/212538132-3debcd17-b5ca-4650-a318-0359e85f3774.png)
+![image](https://user-images.githubusercontent.com/122424121/212538100-d8b25828-6b8d-4d67-8b85-7f5212713292.png)
+![image](https://user-images.githubusercontent.com/122424121/212538108-b73d96d7-2ed8-4c5c-a8d9-7da4ffcd934e.png)
 
 
 | Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
