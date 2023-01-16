@@ -23,4 +23,3 @@ Purple Hyacinth is a mystery thriller webtoon that revolves around the life of L
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7I0jfb2dISArL7M18gaDFs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
