@@ -2,9 +2,9 @@
 Danelle Antoinette G. Lim
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7CH99b2i1TXS5P8UUyWtnM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0ilAr6oRl3DHhYnGrQV0cs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Pinterest dump
+## randoms from pinterest
 
 ![image](https://user-images.githubusercontent.com/122424121/212887528-eeb2b9da-d0cd-4ac7-a09e-c2936ea70aa6.png)
 ![image](https://user-images.githubusercontent.com/122424121/212887998-cf228365-ca9f-4a86-802d-706a6f70a8a9.png)
